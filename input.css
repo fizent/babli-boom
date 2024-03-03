@@ -1,0 +1,61 @@
+
+body {
+    background-image: url(./image/back-inp.jpg);
+}
+
+.h-inp {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.container1 {
+    margin-top: 5%;
+}
+
+#k {
+    color: #0070ff;
+}
+
+
+.h1-s {
+    color: white;
+}
+
+.p-s {
+    color: #c4ecff;
+    
+}
+
+
+.a {
+    margin-top: 2rem;
+  background-color: rgb(255, 255, 255);
+  width: 152px;
+  height: 40px;
+  border: 1px solid rgb(142, 255, 127);
+  border-radius: 18px;
+  font-size: 20px;
+  padding-top: 5px;
+  transition: transform 0.4s;
+  margin-left: 6rem;
+  
+}
+
+
+.a:hover {
+    transform: translateY(10px);
+}
+
+.a-all {
+    color: #1b1793;
+    transition: color 0.4s, transform 0.4s;
+}
+
+.a-all:hover {
+    color: rgb(6, 117, 245);
+    transform: scale(1.1);
+}
+
